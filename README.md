@@ -26,14 +26,7 @@ This is a simple Todo application built with Django. Users can add and delete to
    ```bash
    cd todo-app
    ```
-
-3. Create a virtual environment (optional but recommended):
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use: venv\Scripts\activate
-   ```
-
+   
 4. Install the required packages:
 
    ```bash
